@@ -1,4 +1,4 @@
 - **Project Title:** Data Analysis for Predicting Diabetes
 - **Description:** Developed a data analysis pipeline using Python to preprocess, explore, and model a dataset for Type 2 diabetes prediction. Implemented logistic regression and random forest models with detailed evaluations.
 - **Key Skills:** Python, pandas, matplotlib, seaborn, scikit-learn, machine learning.
-- **GitHub Repository:** Available upon request to selc8797@gmail.com.
+- **GitHub Repository:** Available upon request to selc8797@gmail.com. for the jupyternotebook
